@@ -1,10 +1,10 @@
 import Nav from '../components/nav'
+import '../css/app.css'
 
 export default function Header() {
     return (
-    <div>
-    <h1>William Tikhonenko</h1>
+    <header>
     <Nav></Nav>
-    </div>
+    </header>
     )
 }
