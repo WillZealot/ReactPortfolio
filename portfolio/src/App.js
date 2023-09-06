@@ -1,3 +1,5 @@
+import './assets/css/app.css'
+
 import Header from './assets/components/header';
 import Nav from './assets/components/nav';
 import AboutMe from './assets/components/aboutme';

@@ -3,6 +3,38 @@ body {
     background-repeat: no-repeat;
 }
 
-#aboutMeText {
+.Nav{
+    display: flex;
+    justify-content: end;
+    padding-right: 45px;
+}
+
+.Nav h4{
+    padding-left: 45px;
+}
+
+.AboutMe{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding-right: 200px;
+    padding-left: 500px;
+    
+}
+
+#AboutMeText {
+    color: whitesmoke;
+    font-weight: 400;
+}
+
+#myPic{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: -600px;
+    bottom: -50px;
+    scale: 200%;
+    border-radius: 100px;
     
 }
