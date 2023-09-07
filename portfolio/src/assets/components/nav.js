@@ -3,7 +3,13 @@ import * as React from 'react';
 import Breadcrumbs from '@mui/material/Breadcrumbs';
 import Link from '@mui/material/Link';
 
-
+const styles={
+    nav : {
+    display:'flex',
+    justifyContent: 'end',
+},
+}
+    
 
 function handleClick(event) {
   event.preventDefault();
@@ -12,7 +18,7 @@ function handleClick(event) {
 
 export default function Nav() {
   return (
-    <div role="presentation" onClick={handleClick}>
+    <div role="presentation" onClick={handleClick} style={styles.nav}>
       <Breadcrumbs aria-label="breadcrumb">
         <Link underline="hover" color="text.primary" href="/">
           About Me
