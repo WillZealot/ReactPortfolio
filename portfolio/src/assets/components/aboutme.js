@@ -1,5 +1,5 @@
 import '../css/app.css'
-import myPicture from '../images/Picsart_23-07-04_19-52-40-412.png'
+import myPicture from '../images/20230625_145526.jpg'
 
 import * as React from 'react';
 
@@ -14,10 +14,11 @@ export default function UserCard() {
   return (
     <Box
       sx={{
+        display:'flex',
         paddingTop:'50px',
         margin:'auto',
         width: "100%",
-        maxWidth: "700px",
+        maxWidth: "800px",
         position: "relative",
         overflow: { xs: "auto", sm: "initial" }
       }}

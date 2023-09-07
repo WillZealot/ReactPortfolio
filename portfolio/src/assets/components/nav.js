@@ -4,7 +4,7 @@ import Breadcrumbs from '@mui/material/Breadcrumbs';
 import Link from '@mui/material/Link';
 
 const styles={
-    nav : {
+    nav :{
     display:'flex',
     justifyContent: 'end',
 },
