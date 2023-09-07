@@ -2,30 +2,3 @@ body {
     background-image: linear-gradient(to right bottom, #0b8ef2, #4296f1, #5e9df1, #73a5f0, #85adef, #7ca7f3, #73a1f6, #6c9af9, #4982fe, #2568ff, #004bff, #0d21f8);
     background-repeat: no-repeat;
 }
-
-
-.AboutMe{
-    display: flex;
-    flex-wrap: wrap;
-    margin: auto;
-    padding-right: 200px;
-    padding-left: 500px;
-    
-}
-
-#AboutMeText {
-    color: whitesmoke;
-    font-weight: 400;
-}
-
-#myPic{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    position: relative;
-    left: -600px;
-    bottom: -100px;
-    scale: 100%;
-    border-radius: 100px;
-    
-}
