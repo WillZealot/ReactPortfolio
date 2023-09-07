@@ -23,11 +23,11 @@ export default function UserCard() {
         overflow: { xs: "auto", sm: "initial" }
       }}
     >
-      <Box
-      />
+      <Box/>
       <Card
         orientation="horizontal"
         sx={{
+          backgroundColor: 'rgba(255, 255, 255, 0.7)',
           width: "100%",
           flexWrap: "wrap",
           [`& > *`]: {
