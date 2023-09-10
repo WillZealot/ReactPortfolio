@@ -12,8 +12,8 @@ const Home = () => {
     <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm a full-stack developer with a speciality in creating a digital experience you wont forget. Currently, I'm focused on building responsive unique full-stack applications and growing my understanding on more complex topics.</p>
     {/* Button */}
     <div>
-      <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-[#ccd6f6] hover:border-[#ccd6f6] hover:text-black'>View Work
-      <span>
+      <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#ccd6f6] hover:border-[#ccd6f6] hover:text-black'>View Work
+      <span className='group-hover:rotate-90 duration-300'>
       <HiArrowNarrowRight></HiArrowNarrowRight>
       </span>
       </button>
