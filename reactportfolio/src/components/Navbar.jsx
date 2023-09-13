@@ -4,6 +4,7 @@ import {HiOutlineMail} from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from "../assets/logo3.png";
 import { Link } from 'react-scroll';
+import resume from '../assets/resume/Resume.pdf'
 
 const Navbar = () => {
 
@@ -80,10 +81,10 @@ const Navbar = () => {
                     <a className='flex justify-between items-center w-full text-gray-300' href="https://github.com/WillZealot">Github <FaGithub size={30}></FaGithub></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#EA4335]'>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="/">Email <HiOutlineMail size={30}></HiOutlineMail></a>
+                    <a className='flex justify-between items-center w-full text-gray-300' href='mailto:williamtikhonenko@gmail.com'>Email <HiOutlineMail size={30}></HiOutlineMail></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="/">Resume <BsFillPersonLinesFill size={30}></BsFillPersonLinesFill></a>
+                    <a className='flex justify-between items-center w-full text-gray-300' href={resume} >Resume <BsFillPersonLinesFill size={30}></BsFillPersonLinesFill></a>
                 </li>
             </ul>
         </div>
