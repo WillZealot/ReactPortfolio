@@ -25,8 +25,8 @@ const Home = () => {
             <div>
               <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#ccd6f6] hover:border-[#ccd6f6] hover:text-black'>
               <Link to="work" spy={true} smooth={true} duration={500}>
-          View Work
-        </Link>
+              View Work
+              </Link>
                 <span className='group-hover:rotate-90 duration-300'>
                   <HiArrowNarrowRight></HiArrowNarrowRight>
                 </span>
