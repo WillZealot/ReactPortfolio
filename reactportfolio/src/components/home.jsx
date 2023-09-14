@@ -36,7 +36,7 @@ const Home = () => {
 
           {/* Image */}
           <div className='lg:w-1/2'>
-            <img alt="myphoto" className='max-w-[600px] lg:w-[500px] md:w-[250px] sm:w-[180px] xs:w-[250px] flex items-center pr-1 justify-center' src={portrait}></img>
+            <img alt="myphoto" className='max-w-[600px] lg:w-[500px] md:w-[250px] sm:w-[180px] xs:w-[250px] xxs:w-[200px] flex items-center pr-1 justify-center' src={portrait}></img>
           </div>
         </div>
       </div>
