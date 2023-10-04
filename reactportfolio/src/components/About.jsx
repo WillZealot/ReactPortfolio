@@ -14,11 +14,11 @@ const About = () => {
             </div>
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                 <div>
-                <p className='sm:text-right text-4xl font-bold'>Hello, I'm Will, nice to meet you please take a second to explore.</p>
+                <p className='sm:text-right text-4xl font-bold'>Hello, I'm William, nice to meet you please take a second to explore.</p>
                 </div>
                 <div>
                     <p>
-                    I Am A Motivated Full Stack Developer with a strong specialization in backend development. Proficient in JavaScript, Node.js, MySQL, NoSQL, MongoDB, React, Progressive Web Apps (PWAs), and various databases. Experienced in building robust server-side applications and APIs. Committed to continuous learning and collaboration to solve complex problems.
+                    I Am A Motivated <strong>Certified</strong> Full Stack Developer with a strong specialization in backend development. Proficient in JavaScript, Node.js, MySQL, NoSQL, MongoDB, React, Progressive Web Apps (PWAs), and various databases. Experienced in building robust server-side applications and APIs. Committed to continuous learning and collaboration to solve complex problems.
                     </p>
                 </div>
             </div>
