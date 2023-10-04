@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.b0a1429c.css",
-    "main.js": "/ReactPortfolio/static/js/main.bf4ba4a9.js",
+    "main.js": "/ReactPortfolio/static/js/main.80544a2a.js",
     "static/media/catchbreathe.png": "/ReactPortfolio/static/media/catchbreathe.60bd14a634f6aa2a9f57.png",
     "static/media/QrEmpire.png": "/ReactPortfolio/static/media/QrEmpire.bb63db738e7577e98e81.png",
-    "static/media/weather.png": "/ReactPortfolio/static/media/weather.ada6691e2f5b153e078c.png",
+    "static/media/stasios.jpeg": "/ReactPortfolio/static/media/stasios.159df0f74d325f0ef904.jpeg",
     "static/media/myphoto.jpg": "/ReactPortfolio/static/media/myphoto.78985e80538e29ddd0cd.jpg",
     "static/media/jatePhoto.jpeg": "/ReactPortfolio/static/media/jatePhoto.c9618e2c52c84251e6ac.jpeg",
     "static/media/Resume.pdf": "/ReactPortfolio/static/media/Resume.cb7101afcb7dc0a1610a.pdf",
@@ -21,10 +21,10 @@
     "static/media/javascript.png": "/ReactPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/ReactPortfolio/index.html",
     "main.b0a1429c.css.map": "/ReactPortfolio/static/css/main.b0a1429c.css.map",
-    "main.bf4ba4a9.js.map": "/ReactPortfolio/static/js/main.bf4ba4a9.js.map"
+    "main.80544a2a.js.map": "/ReactPortfolio/static/js/main.80544a2a.js.map"
   },
   "entrypoints": [
     "static/css/main.b0a1429c.css",
-    "static/js/main.bf4ba4a9.js"
+    "static/js/main.80544a2a.js"
   ]
 }
